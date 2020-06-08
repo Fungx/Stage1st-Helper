@@ -1,0 +1,9 @@
+{
+    "refresh_time": 1800,
+    "members": [
+        {
+            "username":"*",
+            "password":"*"
+        }
+    ]
+}
